@@ -4,8 +4,8 @@
 GollyJer/hass-node-red is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
 
 Full tech stack [here](/techstack.md)
 
@@ -16,8 +16,8 @@ Full tech stack [here](/techstack.md)
 GollyJer/hass-node-red is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' alt='Visual Studio Code'/> [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png' alt='Visual Studio Code'/> [Visual Studio Code](https://code.visualstudio.com/) – Text Editor
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [GollyJer/hass-node-red](https://github.com/GollyJer/hass-node-red)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|4<br/>Tools used|01/05/24 <br/>Report generated|
+|4<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
